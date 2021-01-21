@@ -11,6 +11,11 @@
 html, body, main {
     height: 100%;
 }
+
+html {
+    font-size: 1.5vh;
+}
+
 .div {
     display: flex;
     justify-content: center;
